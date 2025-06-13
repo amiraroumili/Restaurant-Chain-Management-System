@@ -1,0 +1,31 @@
+Id,Name,EmployeesNumber,Type,Country,Wilaya,City,District
+1,KoulHani1,14,Owned,Algeria,Batna,Batna,District A
+2,KoulHani2,30,Owned,Algeria,Algiers,Bir Mourad Rais,District B
+3,KoulHani3,10,Owned,Algeria,Batna,Timgad,District C
+4,KoulHani4,38,Franchised,Algeria,Batna,Barika,District D
+5,KoulHani5,32,Franchised,Algeria,Setif,Bir El Arch,District E
+6,KoulHani6,25,Franchised,Algeria,Oran,Wadi Tlilat,District F
+7,KoulHani7,19,Franchised,Algeria,Batna,Batna,District G
+8,KoulHani8,11,Owned,Algeria,Oran,Oran,District H
+9,KoulHani9,25,Franchised,Algeria,Algiers,Baraki,District I
+10,KoulHani10,8,Owned,Algeria,Setif,Bir El Arch,District J
+11,KoulHani11,21,Owned,Algeria,Batna,Timgad,District K
+12,KoulHani12,9,Franchised,Algeria,Constantine,Bousouf,District L
+13,KoulHani13,37,Owned,Algeria,Batna,Batna,District M 
+14,KoulHani14,40,Owned,Algeria,Oran,Bir Al-Jir,District N
+15,KoulHani15,26,Franchised,Algeria,Constantine,Elkhroub,District O
+16,KoulHani16,39,Owned,Algeria,Batna,Arris,District P
+17,KoulHani17,13,Franchised,Algeria,Batna,Batna,District Q
+18,KoulHani18,6,Owned,Algeria,Batna,Timgad,District R
+19,KoulHani19,38,Owned,Algeria,Batna,Barika,District S
+20,KoulHani20,36,Franchised,Algeria,Setif,Bir El Arch,District T
+21,KoulHani21,34,Franchised,Algeria,Setif,El Eulma,District U
+22,KoulHani22,34,Franchised,Algeria,Oran,Ain El Turk,District V
+23,KoulHani23,22,Owned,Algeria,Algiers,Zeralda,District W
+24,KoulHani24,27,Owned,Algeria,Algiers,Zeralda,District X
+25,KoulHani25,34,Owned,Algeria,Oran,Wadi Tlilat,District Y
+26,KoulHani26,8,Owned,Algeria,Batna,Batna,District Z
+27,KoulHani27,22,Franchised,Algeria,Oran,Ain El Turk,District A
+28,KoulHani28,39,Franchised,Algeria,Oran,Ain El Turk,District B
+29,KoulHani29,38,Owned,Algeria,Setif,El Eulma,District C
+30,KoulHani30,31,Franchised,Algeria,Setif,El Eulma,District D
